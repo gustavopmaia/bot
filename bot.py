@@ -55,3 +55,5 @@ print(p.position())
 # Point(x=299, y=65)
 
 # Point(x=908, y=385)
+
+# https://medium.com/geekculture/how-to-solve-captcha-with-python-80959653dba2
